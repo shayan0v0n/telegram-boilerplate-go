@@ -1,4 +1,4 @@
-module github.com/shayan0v0n/telegram-boilterplate-go.git
+module github.com/shayan0v0n/telegram-boilerplate-go.git
 
 go 1.23.4
 

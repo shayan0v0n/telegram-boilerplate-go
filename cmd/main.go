@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/shayan0v0n/telegram-boilterplate-go.git/pkg/telegram"
+	"github.com/shayan0v0n/telegram-boilerplate-go.git/pkg/telegram"
 )
 
 func main() {
